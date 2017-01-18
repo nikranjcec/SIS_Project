@@ -1,4 +1,4 @@
 # SIS_Project
 
 University project for a course of Security of information systems.
-For this project I used this tutorial http://www.techotopia.com/index.php/An_Android_Fingerprint_Authentication_Tutorial.
+For this project I used this tutorial http://www.techotopia.com/index.php/An_Android_Fingerprint_Authentication_Tutorial with some new feature like crypt and decrypt text from textView.
