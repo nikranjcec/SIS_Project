@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FingerprintDemo</string>
+    <string name="touch_sensor">Touch Sensor</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">LOG IN</string>
+    <string name="stavitePrst">Stavite prst na Fingerprintscaner!</string>
+    <string name="odustani">Odustani</string>
+</resources>

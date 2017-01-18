@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.kranjcecni.fingerprintdemo.LogInFragment"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_fp_40px"
+        android:layout_gravity="center"
+        android:id="@+id/imageView"
+        />
+
+
+    <TextView
+        android:text="Some error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="62dp"
+        android:id="@+id/txtFingerprintError"
+        android:textSize="30dp"
+        android:textColor="@color/colorAccent"/>
+
+</LinearLayout>
